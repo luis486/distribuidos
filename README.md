@@ -1,1 +1,1 @@
-# distribuidos2022-1
+# Sistemas Distribuidos
